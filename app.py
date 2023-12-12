@@ -1,3 +1,4 @@
+pip install flask
 from flask import Flask, jsonify, render_template, request
 from flask_mail import Mail, Message
 
